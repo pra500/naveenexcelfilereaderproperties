@@ -1,0 +1,5 @@
+2024-02-07 12:49:38,338  INFO [main] Log4jpracticeTest:23 - title is
+2024-02-07 12:51:36,412  WARN [main] Log4jpracticeTest:30 - **********driver is launching**************
+2024-02-07 12:51:41,610 DEBUG [main] Log4jpracticeTest:34 - **********maximkizing************
+2024-02-07 12:51:44,332  INFO [main] Log4jpracticeTest:23 - *******title is************
+2024-02-07 12:51:44,499 FATAL [main] Log4jpracticeTest:44 - **********closing***********
